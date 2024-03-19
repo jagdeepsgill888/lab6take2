@@ -1,0 +1,20 @@
+/*
+Theme Name:     2023_Store_hw3
+Description:    
+Author:         admin
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1 {
+ font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+	color: #d16ce6;
+}
